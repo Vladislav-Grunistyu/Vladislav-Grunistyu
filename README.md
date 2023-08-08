@@ -4,7 +4,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий разработчик видеоигр<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Люблю играть в видеоигры и просто обожаю их создавать. В основном использую движок Unity. 
+Я разработчик видеоигр<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Люблю играть в видеоигры и просто обожаю их создавать. В основном использую движок Unity. 
 
 - 📖: Окончил институ чтобы найти себя в разработке.
 
@@ -25,7 +25,7 @@
     <a href="https://www.youtube.com/channel/UCll40cB7wh-_kLG0QSmGBfA" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
     </a>
-    <a href="Vladislav-Grunistyu" target="_blank">
+    <a href="https://vk.com/v.hentaiboy" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
