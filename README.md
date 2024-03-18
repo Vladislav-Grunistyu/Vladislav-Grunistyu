@@ -68,4 +68,13 @@
   </tr>
 </table>
 
+---
+
+### 🎮 Можете сыграть в мои игры с геймджемов:
+
+<a href="https://yurusanai.itch.io/rhythm-of-joy"><img src="https://img.itch.zone/aW1nLzE0ODk3ODcyLnBuZw==/315x250%23c/ZXoEOS.png" width=45%></img></a>
+<a href="https://yurusanai.itch.io/date-with-submas"><img src="https://img.itch.zone/aW1nLzExNTAyNjgxLnBuZw==/315x250%23c/2jAkk7.png" width=45%></img></a>
+
+---
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Vladislav-Grunistyu)
