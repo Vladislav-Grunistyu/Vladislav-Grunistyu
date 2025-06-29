@@ -1,79 +1,91 @@
-# Привет, меня зовут Владислав!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Привет,+я+Владислав!&animation=fadeIn&type=waving&color=gradient&height=120"/>
+</p>
 
 ---
 
-### :man_technologist: Обо мне:
+## 👨‍💻 О себе:
 
-Я разработчик видеоигр<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Люблю играть в видеоигры и просто обожаю их создавать. В основном использую движок Unity. 
+Привет! Я **Владислав**, разработчик видеоигр 🎮 на Unity. Люблю играть в игры и обожаю их создавать.  
+Сейчас работаю в **OctoGames**, где занимаюсь реализацией геймплейных механик, UI и системных фреймворков.
 
-- 📖: Окончил институт чтобы найти себя в разработке.
-
-- 🍰: Моя цель — получение профессионального опыта в игровой индустрии.
-
-- 🧉: Являюсь поклоником геймджемов.
-
-:mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Yurusanai-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Yurusanai_74) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:virtual.macintosh.exe@gmail.com)
+- 🎯 Ищу профессиональный рост в игровой индустрии.  
+- 🧉 Фанат геймджемов.  
+- 🎓 Образование: окончил институт и нашёл себя в геймдеве.
 
 ---
 
-### 🤝 Социальные сети:
+## 🛠 Мой стек:
 
-  <div id="badges">
-    <a href="https://t.me/Yurusanai_74" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="https://www.youtube.com/channel/UCll40cB7wh-_kLG0QSmGBfA" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
-    </a>
-    <a href="https://vk.com/v.hentaiboy" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-  </div>
+<pre>
+role: Unity Game Developer @ OctoGames
+experience: (с октября 2024)
+tools:
+  - Unity
+  - C#
+  - UniTask
+  - Zenject
+  - R3
+  - DOTween
+  - Git, Trello, Visual Studio
+</pre>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,git,visualstudio" />
+  <img src="https://img.shields.io/badge/UniTask-Async-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Zenject-DI-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/R3-Reactive-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/DOTween-Animation-orange?style=flat-square" />
+</p>
 
 ---
 
-### 🛠 Инструменты:
+## 🧩 Геймджемы:
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="40" height="40"/>&nbsp;
+| Джем                                                                                          | Дата        |
+|-----------------------------------------------------------------------------------------------|-------------|
+| Грант за участие в номинации ТОП-10 самых перспективных игр                                   | 08/2020     |
+| Global Game Jam 2022                                                                          | 02/2022     |
+| Награды за участие в номинациях: "Образовательная игра" и "Лучшая механика" от Finiki.Games   | 11/2022     |
+| Global Game Jam 2023                                                                          | 02/2023     |
+| Global Game Jam 2024                                                                          | 02/2024     |
+| Global Game Jam 2025                                                                          | 02/2025     |
+
+---
+
+## 🕹 Мои проекты:
+
+<a href="https://yurusanai.itch.io/rhythm-of-joy">
+  <img src="https://img.itch.zone/aW1nLzE0ODk3ODcyLnBuZw==/315x250%23c/ZXoEOS.png" width="45%" />
+</a>
+<a href="https://yurusanai.itch.io/date-with-submas">
+  <img src="https://img.itch.zone/aW1nLzExNTAyNjgxLnBuZw==/315x250%23c/2jAkk7.png" width="45%" />
+</a>
+
+---
+
+## 📬 Контакты:
+
+:mailbox_with_mail: Свяжитесь со мной:
+
+[![Telegram Badge](https://img.shields.io/badge/-@Yurusanai-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Yurusanai_74)  
+[![Gmail Badge](https://img.shields.io/badge/-virtual.macintosh.exe@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:virtual.macintosh.exe@gmail.com)
+
+---
+
+## 🌐 Социальные сети:
+
+<div id="badges">
+  <a href="https://t.me/Yurusanai_74" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCll40cB7wh-_kLG0QSmGBfA" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="YouTube"/>
+  </a>
+  <a href="https://vk.com/v.hentaiboy" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK"/>
+  </a>
 </div>
-
----
-
-### 💻 Геймджемы:
-
-| Джем                                                            | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| Грант за участиe в в номинации ТОП 10 самых перспективных игр   |      08/2020      |
-| Global Game Jame                                                |      02/2022      |
-| Награды за участие в в номинации “Образовательная игра и “Лучшая игровая механика по мнению Finiki.Games                                 |      11/2022      |
-| Global Game Jame                                                |      02/2023      |
-
----
-
-### ⚙️ GitHub статистика:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Vladislav-Grunistyu&theme=github_dark" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vladislav-Grunistyu&theme=github_dark" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🎮 Можете сыграть в мои игры с геймджемов:
-
-<a href="https://yurusanai.itch.io/rhythm-of-joy"><img src="https://img.itch.zone/aW1nLzE0ODk3ODcyLnBuZw==/315x250%23c/ZXoEOS.png" width=45%></img></a>
-<a href="https://yurusanai.itch.io/date-with-submas"><img src="https://img.itch.zone/aW1nLzExNTAyNjgxLnBuZw==/315x250%23c/2jAkk7.png" width=45%></img></a>
 
 ---
 
